@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Raju",
+      "age": "24",
+      "city": "Hyderabad"
+    },
+    {
+        "id": 2,
+        "name": "Rani",
+        "age": "28",
+        "city": "Hyderabad"
+      },
+      {
+        "id": 3,
+        "name": "Rajesh",
+        "age": "24",
+        "city": "banglore"
+      },
+      {
+        "id": 4,
+        "name": "Sampath",
+        "age": "30",
+        "city": "Banglore"
+      },
+      {
+        "id": 5,
+        "name": "Raju",
+        "age": "32",
+        "city": "Delhi"
+      },
+      {
+        "id": 6,
+        "name": "Raja",
+        "age": "25",
+        "city": "Delhi"
+      },
+      {
+        "id": 7,
+        "name": "CBN",
+        "age": "28",
+        "city": "Tirupathi"
+      },
+      {
+        "id": 8,
+        "name": "Ranga prasad",
+        "age": "35",
+        "city": "Tirupathi"
+      }
+
+]
